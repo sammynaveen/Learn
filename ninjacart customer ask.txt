@@ -1,0 +1,7 @@
+how to create page?
+how to identify duplicate locator in element? how to identify unique
+how locators  will identify from dom?
+about custome validation (in identifying elements)
+for the same scenerio how to do api tseting ?
+how suite can handle hybrid applications?  how to automate android app which has web view and also android screen ?
+ 
